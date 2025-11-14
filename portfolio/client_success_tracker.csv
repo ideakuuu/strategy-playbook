@@ -1,0 +1,4 @@
+client_id,client_name,status,last_meeting_date,next_steps,owner,buy_in_score,renewal_probability,notes
+MVT-001,Sonic,Active,2025-10-29,Submit CMC content; finalize creatives,[Your Name],8,0.85,"High engagement, positive sentiment"
+MVT-002,Ronin,Active,2025-11-03,Launch referral drive; collect testimonials,[Your Name],7,0.75,Needs community activation
+MVT-003,Beam,At Risk,2025-10-15,Quarterly review; propose dossier,[Your Name],5,0.45,"Lower engagement, schedule call"
